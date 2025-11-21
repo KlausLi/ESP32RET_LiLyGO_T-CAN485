@@ -6,4 +6,8 @@ Now its fine with LilyGo T-CAN485 and Savvycan
   
 Connection Type - Serial Connection(GVRET)  
 Speed 			- 500000  
+
+Online Programmer von Espressif
+https://espressif.github.io/esptool-js/
+
 CanBus Sniffer  
